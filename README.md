@@ -1,5 +1,6 @@
 # Quick Start Twitch API (TS + Node.js)
 Boiler plate code to get you started making API request to Twitch.
+
 **Including Automatic OAuth 2.0 Access Token Refreshing.**
 
 ## Dependencies
