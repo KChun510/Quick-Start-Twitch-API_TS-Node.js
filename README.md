@@ -3,8 +3,8 @@ Boiler plate code to get you started making API request to Twitch.
 **Including Automatic OAuth 2.0 Access Token Refreshing.**
 
 ## Dependencies
-1. **NPM**
-    - [Installing NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+1. **NODE**
+    - [Installing Node](https://nodejs.org/en/download)
 2. **TypeScript**
     - [Installing TS](https://www.npmjs.com/package/typescript)
 
