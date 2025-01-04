@@ -15,12 +15,17 @@ Boiler plate code to get you started making API request to Twitch.
     - [Register App Steps](https://dev.twitch.tv/docs/authentication/register-app/)
 3. Paste your ClientID & ClientSecret into .env-example, and rename it to .env.
 4. Install NPM Packages.
-     > npm install
+
+     > `npm install`
+
 4. Compile and Run twitchAPI.ts.
-     > npx tsx twitchAPI.ts 
-     > npx tsc twitchAPI.ts && node twitchAPI.js
+
+     > `npx tsx twitchAPI.ts` 
+     >  -or-
+     > `npx tsc twitchAPI.ts && node twitchAPI.js`
 
 Thats it, start making request!
+
 [List of Twitch EndPoints](https://dev.twitch.tv/docs/api/reference/)
 
 
