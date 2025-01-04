@@ -40,7 +40,7 @@ function readJsonFile(filePath = './twitch_clientSecret.json') {
 	}
 }
 
-function writeJsonFile(content: JSON, filePath = './twitch_clientSecret.json') {
+function writeJsonFile(content, filePath = './twitch_clientSecret.json') {
 	try {
 		const jsonData = JSON.stringify(content, null, 2)
 		fs.writeFileSync(filePath, jsonData, 'utf8')
